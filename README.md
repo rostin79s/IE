@@ -1,2 +1,2 @@
-# IE-CA1
-programming assignment 1 for internet engineering
+# IE
+programming assignments for internet engineering
